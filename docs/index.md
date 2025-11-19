@@ -3,13 +3,13 @@ layout: default
 title: Home
 ---
 
-# Organisational System for Cooperatives
+## Organisational Systems for Cooperatives
 
 Cooperatives succeed when members can **see**, **prove**, and **coordinate** shared value fairly.
 
 The selfdriven Organisational System is designed exactly for that.
 
-## 1. Identity & Membership you can trust
+### 1. Identity & Membership you can trust
 
 Co-ops need clarity on *who is a member and what rights they hold*.
 
@@ -21,7 +21,7 @@ The system provides:
 
 *Membership becomes cryptographically anchored instead of manually administered.*
 
-## 2. Contribution Accounting → trust without politics
+### 2. Contribution Accounting → trust without politics
 
 Co-ops struggle when contribution is invisible.  
 The **Octomics proof-of-activity** model makes member effort *verifiable*.
@@ -36,7 +36,7 @@ These can be tied to:
 
 *Removes the “who’s doing the work vs who’s getting the reward” friction.*
 
-## 3. Collaborative Governance
+### 3. Collaborative Governance
 
 Supports all major cooperative governance flows:
 - proposals
@@ -53,7 +53,7 @@ Supports all major cooperative governance flows:
 
 *Decisions become tamper-proof, transparent, and replayable.*
 
-## 4. Co-ownership & Shared Assets
+### 4. Co-ownership & Shared Assets
 
 Works for shared:
 - capital
@@ -71,7 +71,7 @@ Ownership shares can be:
 
 *New contributors can join without restructuring the whole organisation.*
 
-## 5. Revenue Distribution (without drama)
+### 5. Revenue Distribution (without drama)
 
 Configurable without rewriting bylaws every time:
 - flat membership base
@@ -82,7 +82,7 @@ Configurable without rewriting bylaws every time:
 
 *Payments become predictable, fair, and auditable.*
 
-## 6. Cooperative-to-Cooperative Interoperability
+### 6. Cooperative-to-Cooperative Interoperability
 
 Because membership and roles are credentials:
 - a farming co-op can work with a brewing co-op
@@ -91,7 +91,7 @@ Because membership and roles are credentials:
 
 *Creates federations of co-ownership instead of isolated organisations.*
 
-## 7. AI that supports members — not replaces them
+### 7. AI that supports members — not replaces them
 
 AI services can be community-controlled and permissioned:
 - onboarding helpers
@@ -101,7 +101,7 @@ AI services can be community-controlled and permissioned:
 
 *The AI becomes a **co-op assistant**, not a central authority.*
 
-## What it unlocks
+### What it unlocks
 
 With the system in place, a cooperative becomes:
 - easier to start
@@ -112,7 +112,7 @@ With the system in place, a cooperative becomes:
 
 Members spend more time **building value**, not **fighting over coordination**.
 
-## Where this fits in the selfdriven ecosystem
+### Where this fits in the selfdriven ecosystem
 
 | Interface | Value for a Cooperative |
 |----------|--------------------------|
@@ -124,16 +124,6 @@ Members spend more time **building value**, not **fighting over coordination**.
 | Learning | Skill development + apprenticeships |
 | AI | Augmentation + support |
 | On-chain | Anchor trust + portability |
-
-## Optional next steps
-Reply with the number you want:
-
-1) Example cooperative operating model  
-2) One-page pitch for forming a selfdriven-powered co-op  
-3) Implementation plan with tech stack  
-4) Constitution/bylaws template  
-5) Revenue distribution formulas  
-6) A full start-to-launch guide (0 → working cooperative)
 
 ## References
 - [selfdriven.fyi/spaces](https://selfdriven.fyi/spaces) - Growth happens everywhere.
