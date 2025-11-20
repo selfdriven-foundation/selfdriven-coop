@@ -125,6 +125,17 @@ Members spend more time **building value**, not **fighting over coordination**.
 | AI | Augmentation + support |
 | On-chain | Anchor trust + portability |
 
-## References
+---
+
+### References
 - [selfdriven.fyi/spaces](https://selfdriven.fyi/spaces) - Growth happens everywhere.
 - [Frameworks](/frameworks/) - e.g. the 1st, 2nd, 3rd space.
+- [actuate.selfdriven.community Use-Cases](https://actuate.selfdriven.community/use-cases/)
+- [selfdriven.network Coop Infra Agreement](https://www.selfdriven.network/infra-interface/cooperative/agreement)
+
+### Related
+- [BeyondersCollective](https://www.beyonderscollective.com/)
+- [get.coop](https://get.coop/)
+- [identity.coop](https://identity.coop/)
+- [ica.coop](https://ica.coop/)
+- [worldmap.coop](https://worldmap.coop/)
