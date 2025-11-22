@@ -125,8 +125,6 @@ Members spend more time **building value**, not **fighting over coordination**.
 | AI | Augmentation + support |
 | On-chain | Anchor trust + portability |
 
----
-
 ### References
 - [selfdriven.space](https://selfdriven.space) - Cooperation happens everywhere.
 - [Frameworks](/frameworks/) - e.g. the 1st, 2nd, 3rd space.
