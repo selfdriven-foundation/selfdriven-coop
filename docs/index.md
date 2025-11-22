@@ -128,10 +128,11 @@ Members spend more time **building value**, not **fighting over coordination**.
 ---
 
 ### References
-- [selfdriven.fyi/spaces](https://selfdriven.fyi/spaces) - Growth happens everywhere.
+- [selfdriven.space](https://selfdriven.space) - Cooperation happens everywhere.
 - [Frameworks](/frameworks/) - e.g. the 1st, 2nd, 3rd space.
 - [actuate.selfdriven.community Use-Cases](https://actuate.selfdriven.community/use-cases/)
 - [selfdriven.network Coop Infra Agreement](https://www.selfdriven.network/infra-interface/cooperative/agreement)
+- [selfdriven.services](https://selfdriven.services) - Cooperation support services.
 
 ### Related
 - [BeyondersCollective](https://www.beyonderscollective.com/)
