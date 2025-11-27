@@ -125,6 +125,10 @@ Members spend more time **building value**, not **fighting over coordination**.
 | AI | Augmentation + support |
 | On-chain | Anchor trust + portability |
 
+### Resources
+- [Templates](/templates/)
+- [Australian Registration](/resources/registration/state-gov/australia)
+
 ### References
 - [selfdriven.space](https://selfdriven.space) - Cooperation happens everywhere.
 - [Frameworks](/frameworks/) - e.g. the 1st, 2nd, 3rd space.
