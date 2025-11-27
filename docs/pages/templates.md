@@ -6,7 +6,9 @@ permalink: /templates
 
 ## Cooperative Templates
 
-1. Constitution  
-2. ByLaws  
-3. Policies / Operating Manuals  
-4. Circle Charters
+- [Constitution](/templates/selfdriven/coop/constitution)
+- [ByLaws](/templates/selfdriven/coop/bylaws)
+- [Policy](templates/selfdriven/coop/policy)
+- [Committee](/templates/selfdriven/coop/committee)
+- [Membership](/templates/selfdriven/coop/membership)
+- [Elections](/templates/selfdriven/coop/elections)

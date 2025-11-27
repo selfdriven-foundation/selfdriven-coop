@@ -126,7 +126,7 @@ Members spend more time **building value**, not **fighting over coordination**.
 | On-chain | Anchor trust + portability |
 
 ### Resources
-- [Templates](/templates/)
+- [Templates](/templates)
 - [Australian Registration](/resources/registration/state-gov/australia)
 
 ### References
