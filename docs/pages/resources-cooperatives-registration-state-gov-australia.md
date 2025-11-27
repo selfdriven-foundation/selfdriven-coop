@@ -4,11 +4,11 @@ title: State Gov Registration - Australia - selfdriven Cooperatives
 permalink: /resources/registration/state-gov/australia
 ---
 
-# Quick rundown of how co-ops work in Australia — keeping it simple and practical
+# How co-ops work in Australia
 
 ---
 
-## The basics
+## The Basics
 A **co-operative** in Australia is a legal business structure owned and controlled by its members, not external shareholders. Its core purpose must benefit the members (not just investors).
 
 There are **two main types**:
@@ -18,7 +18,7 @@ There are **two main types**:
 | **Distributing co-op (DC)** | Can return profits to members (dividends, rebates, patronage payments). |
 | **Non-distributing co-op (NDC)** | Profits must be reinvested back into the co-op’s purpose (often used for community, education, social enterprise). |
 
-## Who regulates co-ops?
+## Who Regulates Co-ops?
 Co-ops operate under the **Co-operatives National Law (CNL)** in most states and territories.
 
 **Jurisdictions using CNL:**
@@ -69,7 +69,7 @@ Must follow the CNL template or equivalent. Rules cover:
 ### 6. Naming
 Must include **“Co-operative” or “Co-op”** in the legal name.
 
-## Financial + reporting
+## Financial & Reporting
 Reporting obligations depend on the size and type of the co-op:
 
 | Scale | Reporting expectation |
@@ -78,20 +78,20 @@ Reporting obligations depend on the size and type of the co-op:
 | **Large or distributing** | Full annual financial reporting and typically an audit |
 | **Co-ops raising capital from public** | Greater disclosure rules, similar to companies |
 
-## Advantages of co-ops
+## Advantages of Co-ops
 - Member-controlled (1 member = 1 vote)
 - Profit can stay in the community
 - Strong model for **shared ownership / mutualisation**
 - Better cultural fit for **purpose-driven organisations** than Pty Ltd
 - Can pay member dividends (if distributing)
 
-## Limitations / gotchas
+## Limitations
 - Decision-making can be slower than a traditional startup
 - Governance must be transparent and well-documented
 - Profit return restricted for non-distributing co-ops
 - Not designed for venture capital investment
 
-## Best use cases
+## Best Use Cases
 Co-ops are common in:
 - Agriculture  
 - Housing  
@@ -104,7 +104,7 @@ Co-ops are common in:
 
 They’re increasingly used for **platform and DAO-style shared ownership** because the framework aligns with democratic governance.
 
-## Forming one (practical sequence)
+## Forming One (practical sequence)
 1. Decide **distributing** or **non-distributing**
 2. Draft **rules** + **disclosure statement** (for DC only)
 3. Recruit **at least 5** founding members
@@ -112,12 +112,13 @@ They’re increasingly used for **platform and DAO-style shared ownership** beca
 5. File **application + fees** with your state regulator
 6. After registration — open bank account, onboard members, elect board
 
-## Links to state regulators
-- **NSW — Fair Trading**
-- **VIC — Consumer Affairs**
-- **QLD — Office of Fair Trading**
-- **SA — Consumer & Business Services**
-- **WA — Dept of Mines, Industry Regulation and Safety** (special WA act)
-- **TAS — Consumer, Building and Occupational Services**
-- **ACT — Access Canberra**
-- **NT — Licensing NT**
+## Links to State Regulators (Australia)
+
+- [NSW — Fair Trading](https://www.nsw.gov.au/departments-and-agencies/fair-trading)
+- [VIC — Consumer Affairs](https://www.consumer.vic.gov.au/)
+- [QLD — Office of Fair Trading](https://www.qld.gov.au/law/fair-trading)
+- [SA — Consumer & Business Services](https://www.cbs.sa.gov.au/)
+- [WA — Dept of Mines, Industry Regulation and Safety (Consumer Protection)](https://www.commerce.wa.gov.au/consumer-protection)
+- [TAS — Consumer, Building and Occupational Services (CBOS)](https://www.cbos.tas.gov.au/)
+- [ACT — Access Canberra](https://www.accesscanberra.act.gov.au/consumer-rights/fair-trading-and-consumer-rights)
+- [NT — Licensing NT / Consumer Affairs](https://consumeraffairs.nt.gov.au/)
