@@ -4,41 +4,41 @@ title: State Gov Registration - Australia - selfdriven Cooperatives
 permalink: /resources/registration/state-gov/australia/victoria
 ---
 
-VIC CO-OPERATIVE REGISTRATION CHECKLIST
+# VIC CO-OPERATIVE REGISTRATION CHECKLIST
 
-Regulator:
+## Regulator:
 Consumer Affairs Victoria (CAV)
 https://www.consumer.vic.gov.au/co-operatives
 
-Before lodging:
-✔ At least 5 founding members (individuals or organisations)
-✔ Decide: Distributing Co-op (DC) or Non-distributing Co-op (NDC)
-✔ Select legal name — must include “Co-operative” or “Co-op”
-✔ Registered office must be located in Victoria
-✔ Rules/Constitution prepared using CNL model
-✔ Disclosure Statement completed (DC only)
+### Before lodging:
+- At least 5 founding members (individuals or organisations)
+- Decide: Distributing Co-op (DC) or Non-distributing Co-op (NDC)
+- Select legal name — must include “Co-operative” or “Co-op”
+- Registered office must be located in Victoria
+- Rules/Constitution prepared using CNL model
+- Disclosure Statement completed (DC only)
 
-Documents to lodge:
-□ Application for Registration of a Co-operative
-□ Rules of the Co-operative (constitution)
-□ Disclosure Statement (DC only)
-□ Formation Meeting Minutes
-□ Registered Office Consent (if not owned by co-op)
-□ Director Consents
-□ Copy of Name Availability Search (optional but recommended)
+### Documents to lodge:
+- Application for Registration of a Co-operative
+- Rules of the Co-operative (constitution)
+- Disclosure Statement (DC only)
+- Formation Meeting Minutes
+- Registered Office Consent (if not owned by co-op)
+- Director Consents
+- Copy of Name Availability Search (optional but recommended)
 
-Fees (approx., subject to annual update):
-• Registration fee: ~$194
-• Lodgement of Rules: included in fee
-• Optional name reservation: ~$44
+### Fees (approx., subject to annual update):
+- Registration fee: ~$194
+- Lodgement of Rules: included in fee
+- Optional name reservation: ~$44
 
-Where to lodge:
+### Where to lodge:
 Email: cav.registration@justice.vic.gov.au
 or Post: Consumer Affairs Victoria — Co-operatives Registry
 
 ---
 
-APPLICATION FOR REGISTRATION OF A CO-OPERATIVE (VICTORIA)
+## APPLICATION FOR REGISTRATION OF A CO-OPERATIVE (VICTORIA)
 
 To: Consumer Affairs Victoria — Co-operatives Registry
 
@@ -83,7 +83,7 @@ Signed by founding members:
 
 ---
 
-RULES OF [CO-OPERATIVE NAME] LIMITED
+## RULES OF [CO-OPERATIVE NAME] LIMITED
 
 1. Name
 The name of the co-operative is [CO-OPERATIVE NAME] LIMITED.
@@ -128,7 +128,7 @@ Any surplus assets on winding up must be dealt with according to the CNL and the
 
 ---
 
-FORMATION MEETING — [CO-OPERATIVE NAME] LIMITED
+## FORMATION MEETING — [CO-OPERATIVE NAME] LIMITED
 
 Date: [DATE]
 Location: [ADDRESS]
