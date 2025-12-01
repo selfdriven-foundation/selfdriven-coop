@@ -7,8 +7,7 @@ permalink: /resources/registration/state-gov/australia/victoria
 # VIC CO-OPERATIVE REGISTRATION CHECKLIST
 
 ## Regulator:
-Consumer Affairs Victoria (CAV)
-https://www.consumer.vic.gov.au/co-operatives
+[Consumer Affairs Victoria (CAV)](https://www.consumer.vic.gov.au/co-operatives)
 
 ### Before lodging:
 - At least 5 founding members (individuals or organisations)
