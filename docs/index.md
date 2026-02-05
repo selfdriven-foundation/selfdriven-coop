@@ -128,13 +128,13 @@ Members spend more time **building value**, not **fighting over coordination**.
 ### Resources
 - [Templates](/templates)
 - [Australian Registration](/resources/registration/state-gov/australia)
+- [selfdriven.services](https://selfdriven.services) - Cooperation support services.
 
 ### References
 - [selfdriven.space](https://selfdriven.space) - Cooperation happens everywhere.
 - [Frameworks](https://www.selfdriven.space/frameworks/) - e.g. the 1st, 2nd, 3rd space.
 - [actuate.selfdriven.community Use-Cases](https://actuate.selfdriven.community/use-cases/)
 - [selfdriven.network Coop Infra Agreement](https://www.selfdriven.network/infra-interface/cooperative/agreement)
-- [selfdriven.services](https://selfdriven.services) - Cooperation support services.
 
 ### Related
 - [BeyondersCollective](https://www.beyonderscollective.com/)
@@ -142,3 +142,4 @@ Members spend more time **building value**, not **fighting over coordination**.
 - [identity.coop](https://identity.coop/)
 - [ica.coop](https://ica.coop/)
 - [worldmap.coop](https://worldmap.coop/)
+- [selfdriven.tel](https://selfdriven.tel) - collective telecommunications verification services
