@@ -127,8 +127,8 @@ Members spend more time **building value**, not **fighting over coordination**.
 
 ### Resources
 - [Templates](/templates)
-- [Australian Registration](/resources/registration/state-gov/australia)
-- [selfdriven.services](https://selfdriven.services) - Cooperation support services.
+- [selfdriven Services](https://selfdriven.services) - Cooperation support services.
+- [Sovereign State Government Registration](/resources/registration/state-gov)
 
 ### References
 - [selfdriven.space](https://selfdriven.space) - Cooperation happens everywhere.
